@@ -1,0 +1,4 @@
+com.hospital.serviceapp.test.app-updated_navigation_xml-0 C:\Users\user\AndroidStudioProjects\HospitalServiceRequest\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.hospital.serviceapp.test.app-packageDebugAndroidTestResources-1 C:\Users\user\AndroidStudioProjects\HospitalServiceRequest\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
+com.hospital.serviceapp.test.app-packageDebugAndroidTestResources-2 C:\Users\user\AndroidStudioProjects\HospitalServiceRequest\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
+com.hospital.serviceapp.test.app-debugAndroidTest-3 C:\Users\user\AndroidStudioProjects\HospitalServiceRequest\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

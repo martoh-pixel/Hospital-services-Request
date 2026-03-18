@@ -1,0 +1,7 @@
+com.hospital.serviceapp-pngs-0 C:\Users\user\AndroidStudioProjects\HospitalServiceRequest\app\build\generated\res\pngs\debug
+com.hospital.serviceapp-updated_navigation_xml-1 C:\Users\user\AndroidStudioProjects\HospitalServiceRequest\app\build\generated\updated_navigation_xml\debug
+com.hospital.serviceapp-packageDebugResources-2 C:\Users\user\AndroidStudioProjects\HospitalServiceRequest\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.hospital.serviceapp-packageDebugResources-3 C:\Users\user\AndroidStudioProjects\HospitalServiceRequest\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.hospital.serviceapp-debug-4 C:\Users\user\AndroidStudioProjects\HospitalServiceRequest\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.hospital.serviceapp-debug-5 C:\Users\user\AndroidStudioProjects\HospitalServiceRequest\app\src\debug\res
+com.hospital.serviceapp-main-6 C:\Users\user\AndroidStudioProjects\HospitalServiceRequest\app\src\main\res
